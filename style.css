@@ -1,5 +1,24 @@
+h2 { 
+    text-align: center;
+}
+
+svg {
+    background-color: #f0f0f0;
+    margin: 25px auto;
+    border: 1px solid lightgrey;
+    display: block;
+}
+
+.x-axis text, .y-axis text {
+    font-size: 15px;
+    font-weight: bold;
+}
+
 button {
     display: block;
     margin: 0 auto;
-    border: 2px solid red;
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid rgb(71, 192, 230);
+    border-radius: 15px;
 }
